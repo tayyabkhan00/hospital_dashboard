@@ -4,14 +4,14 @@ Project Overview
 
 A comprehensive Power BI dashboard designed to visualize and analyze key operational data for a hospital. This interactive tool provides insights into patient statistics, medicine sales, appointment scheduling, bed occupancy, and financial metrics, enabling hospital management to make data-driven decisions.
 
-#Project Objectives
+# Project Objectives
 
 To centralize and visualize critical hospital data in an accessible and user-friendly interface.
 To track patient flow, including admissions, diagnoses, and test results.
 To monitor financial aspects and medicine inventory trends.
 To analyze resource utilization such as bed occupancy and doctor appointments.
 
-#Key Features
+# Key Features
 
 Multi-Page Dashboard: Includes overview, patient, doctor, and finance-specific views.
 Interactive Visuals: Tracks medicine purchases by month and weekday.
@@ -27,7 +27,7 @@ Data Preparation: Data Formatting & Cleansing
 Source:Excel / CSV Dataset  
 Design:Figma 
 
-#Dashboard Pages:
+# Dashboard Pages:
 Overview: A high-level summary of all key metrics.
 Patient Dashboard: Detailed view of patient information, personal details, and medicine history.
 Hospital Information: Operational data including surgeries, patient age categories, bed status, and test results.
@@ -40,7 +40,7 @@ Doctor & Appointments: Tracks doctor schedules and patient appointments.
 -finance dashboard
 -staff dashboard
 
-#Insights Delivered:
+# Insights Delivered:
 Identification of peak days for medicine sales.
 Overview of patient distribution across different age groups.
 Real-time monitoring of bed availability and ward occupancy.
