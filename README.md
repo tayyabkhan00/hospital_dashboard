@@ -22,9 +22,13 @@ Appointment & Surgery Tracking: Provides schedules for upcoming doctor appointme
 ### Tools & Technologies Used
 
 Data Visualization: Microsoft Power BI
+
 Data Processing & Querying: SQL,Python
+
 Data Preparation: Data Formatting & Cleansing
+
 Source:Excel / CSV Dataset  
+
 Design:Figma 
 
 # Dashboard Pages:
