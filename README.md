@@ -6,10 +6,10 @@ A comprehensive Power BI dashboard designed to visualize and analyze key operati
 
 # Project Objectives
 
-To centralize and visualize critical hospital data in an accessible and user-friendly interface.
-To track patient flow, including admissions, diagnoses, and test results.
-To monitor financial aspects and medicine inventory trends.
-To analyze resource utilization such as bed occupancy and doctor appointments.
+- To centralize and visualize critical hospital data in an accessible and user-friendly interface.
+- To track patient flow, including admissions, diagnoses, and test results.
+- To monitor financial aspects and medicine inventory trends.
+- To analyze resource utilization such as bed occupancy and doctor appointments.
 
 # Key Features
 
