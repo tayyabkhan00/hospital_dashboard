@@ -1,6 +1,6 @@
 # hospital_dashboard
 
-Project Overview
+# Project Overview
 
 A comprehensive Power BI dashboard designed to visualize and analyze key operational data for a hospital. This interactive tool provides insights into patient statistics, medicine sales, appointment scheduling, bed occupancy, and financial metrics, enabling hospital management to make data-driven decisions.
 
