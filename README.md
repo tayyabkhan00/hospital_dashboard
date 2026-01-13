@@ -41,10 +41,10 @@ Doctor & Appointments: Tracks doctor schedules and patient appointments.
 -staff dashboard
 
 # Insights Delivered:
-Identification of peak days for medicine sales.
-Overview of patient distribution across different age groups.
-Real-time monitoring of bed availability and ward occupancy.
-Tracking of patient test results and upcoming critical appointments.
+- Identification of peak days for medicine sales.
+- Overview of patient distribution across different age groups.
+- Real-time monitoring of bed availability and ward occupancy.
+- Tracking of patient test results and upcoming critical appointments.
 
 ### 🔗 **Interactive Dashboard**
 Click below to explore the live dashboard 👇 
