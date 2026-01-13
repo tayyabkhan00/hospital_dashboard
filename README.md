@@ -13,10 +13,10 @@ A comprehensive Power BI dashboard designed to visualize and analyze key operati
 
 # Key Features
 
-Multi-Page Dashboard: Includes overview, patient, doctor, and finance-specific views.
-Interactive Visuals: Tracks medicine purchases by month and weekday.
-Patient Management: Displays patient details, diagnoses, assigned doctors, and test statuses.
-Operational Insights: Monitors bed status (Occupied/Available) across General, Private, and ICU wards.
+Multi-Page Dashboard: Includes overview, patient, doctor, and finance-specific views.<br>
+Interactive Visuals: Tracks medicine purchases by month and weekday.<br>
+Patient Management: Displays patient details, diagnoses, assigned doctors, and test statuses.<br>
+Operational Insights: Monitors bed status (Occupied/Available) across General, Private, and ICU wards.<br>
 Appointment & Surgery Tracking: Provides schedules for upcoming doctor appointments and surgeries.
 
 ### Tools & Technologies Used
@@ -28,17 +28,19 @@ Appointment & Surgery Tracking: Provides schedules for upcoming doctor appointme
 - Design:Figma 
 
 # Dashboard Pages:
-Overview: A high-level summary of all key metrics.
-Patient Dashboard: Detailed view of patient information, personal details, and medicine history.
-Hospital Information: Operational data including surgeries, patient age categories, bed status, and test results.
+
+Overview: A high-level summary of all key metrics.<br>
+Patient Dashboard: Detailed view of patient information, personal details, and medicine history.<br>
+Hospital Information: Operational data including surgeries, patient age categories, bed status, and test results.<br>
 Doctor & Appointments: Tracks doctor schedules and patient appointments.
-#the project includes
--overview dashboard
--hospital dashboard
--doctor dashboard
--patient dashboard
--finance dashboard
--staff dashboard
+
+# the project includes:
+- overview dashboard
+- hospital dashboard
+- doctor dashboard
+- patient dashboard
+- finance dashboard
+- staff dashboard
 
 # Insights Delivered:
 - Identification of peak days for medicine sales.
